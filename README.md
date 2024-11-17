@@ -1,1 +1,1 @@
-divoa_repository
+divosa_repository

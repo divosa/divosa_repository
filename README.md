@@ -1,1 +1,0 @@
-# divosa_repository
